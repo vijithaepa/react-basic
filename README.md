@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This sample was inspired by and followed the tutorial [React basic in just 1 hour](https://www.udemy.com/react-basic-in-just-1-hour/learn/v4/t/lecture/5042062?start=0)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
